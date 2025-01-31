@@ -62,7 +62,7 @@ The model's performance is evaluated based on **Root Mean Squared Error (RMSE)**
 
 1. **Clone this repository**:
    ```bash
-   https://github.com/Parag000/Nvidia-Data-Science-Competition.git
+   https://github.com/SudarshanC00/Nvidia-Data-Science-Competition.git
 
 
 ## Leaderboard
